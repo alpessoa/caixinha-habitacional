@@ -1,5 +1,9 @@
 # 🏠 Caixinha Habitacional: Inovação e Captação para a CAIXA Econômica
 
+<img width="1224" height="669" alt="Captura de tela 2026-03-18 211357" src="https://github.com/user-attachments/assets/24aafb73-0c4e-41f2-8f26-e138083c8bce" />
+
+
+
 > **Contexto do Projeto:** Este case de inovação aberta foi desenvolvido para a **CAIXA Econômica Federal** em parceria com o **CESAR** (Centro de Estudos e Sistemas Avançados do Recife) durante o programa Summer Job 2026. O objetivo foi aplicar Product Management, UX/UI e Análise de Dados para resolver o gap de conversão no crédito imobiliário jovem.
 
 ### 📱 Demonstração da Solução (MVP)
